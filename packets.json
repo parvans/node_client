@@ -1,0 +1,23 @@
+[
+  {
+    "symbol": "AAPL",
+    "buySellIndicator": "B",
+    "quantity": 50,
+    "price": 100,
+    "sequence": 1
+  },
+  {
+    "symbol": "AAPL",
+    "buySellIndicator": "B",
+    "quantity": 30,
+    "price": 98,
+    "sequence": 2
+  },
+  {
+    "symbol": "AMZN",
+    "buySellIndicator": "S",
+    "quantity": 15,
+    "price": 3020,
+    "sequence": 13
+  }
+]
